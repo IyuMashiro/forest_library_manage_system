@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LMS-admin-parent/LMS-admin-component/LMS-admin-component.iml" filepath="$PROJECT_DIR$/LMS-admin-parent/LMS-admin-component/LMS-admin-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LMS-admin-parent/LMS-admin-entity/LMS-admin-entity.iml" filepath="$PROJECT_DIR$/LMS-admin-parent/LMS-admin-entity/LMS-admin-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LMS-admin-parent/LMS-admin-parent.iml" filepath="$PROJECT_DIR$/LMS-admin-parent/LMS-admin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LMS-admin-parent/LMS-admin-webui/LMS-admin-webui.iml" filepath="$PROJECT_DIR$/LMS-admin-parent/LMS-admin-webui/LMS-admin-webui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LMS-common-reverse/LMS-common-reverse.iml" filepath="$PROJECT_DIR$/LMS-common-reverse/LMS-common-reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LMS-common-util/LMS-common-util.iml" filepath="$PROJECT_DIR$/LMS-common-util/LMS-common-util.iml" />
+    </modules>
+  </component>
+</project>

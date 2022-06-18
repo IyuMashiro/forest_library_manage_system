@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LMS-admin-webui:war">
+    <output-path>$PROJECT_DIR$/LMS-admin-parent/LMS-admin-webui/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>LMS-admin-webui</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="LMS-admin-webui-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="LMS-admin-webui:war exploded" />
+    </root>
+  </artifact>
+</component>

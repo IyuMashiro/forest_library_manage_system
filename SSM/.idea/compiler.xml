@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LMS-admin-component" />
+        <module name="LMS-common-reverse" />
+        <module name="LMS-common-util" />
+        <module name="LMS-admin-entity" />
+        <module name="LMS-admin-webui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="LMS-admin-component" target="15" />
+      <module name="LMS-admin-entity" target="15" />
+      <module name="LMS-admin-parent" target="15" />
+      <module name="LMS-admin-webui" target="15" />
+      <module name="LMS-common-reverse" target="1.5" />
+      <module name="LMS-common-util" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

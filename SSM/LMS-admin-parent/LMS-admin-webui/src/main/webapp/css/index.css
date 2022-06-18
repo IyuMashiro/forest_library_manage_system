@@ -1,0 +1,36 @@
+body{
+	background-color: #000000;
+}
+#index-serch{
+	width: 50%;
+	text-align: center;
+}
+#index-serch-in{
+	width: 100%;
+}
+#index-serch-div{
+	width: 80%;
+}
+#index-serch-sub{
+	background-color: #000000;
+	border: none;
+	color: white;
+	outline: none;
+}
+
+#index-serch-sub:hover{
+	background-color: whitesmoke;
+	border: #000000;
+	color: black;
+}
+
+#index-serch-sub:active{
+	background-color: white;
+	border: white;
+	
+	color: #000000;
+}
+
+#index-user-icon{
+	width: 25px;
+}

@@ -1,0 +1,49 @@
+#error-page-icon{
+    width: 300px;
+    position: absolute;
+    left: 15%;
+}
+#error-page-main{
+    width: 1000px;
+    height: 300px;
+    position: relative;
+    margin: 0 auto;
+}
+#error-page-text{
+    position: absolute;
+    top: 140px;
+    left: 47%;
+}
+#error-page-form{
+    width: 350px;
+    position: absolute;
+    left: 50%;
+    top: 300px;
+    margin-left: -175px;
+    padding: 10px;
+    border: #000000 1px solid;
+    border-radius: 10px;
+    background-color: #f6f8fa;
+    border-color:#d0d7de;
+}
+
+#error-page-sub{
+    background-color: #2da44e;
+    color: white;
+    width: 100%;
+    font-size: large;
+    outline: none;
+}
+
+#error-page-back{
+
+    background-color: whitesmoke;
+    color: black;
+    width: 100%;
+    font-size: large;
+    outline: none;
+}
+
+.center{
+    text-align: center;
+}
